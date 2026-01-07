@@ -1008,7 +1008,3 @@ Workaround: Check Google Calendar directly to verify event creation.
 | Google Calendar | Complete | Real event creation |
 
 ---
-
-## License
-
-This project is created for the Mission Pizza assessment.
